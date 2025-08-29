@@ -1,0 +1,5 @@
+{
+  "name": "POS Data Analysis Dashboard",
+  "description": "A dummy application for acquiring and analyzing POS data. It allows filtering by period, area, store, department, category, and product, and displays metrics such as sales amount, quantity, and inventory. It also includes an AI-powered analysis feature using Gemini.",
+  "requestFramePermissions": []
+}
